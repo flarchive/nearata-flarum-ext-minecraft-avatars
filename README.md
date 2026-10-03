@@ -2,13 +2,22 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-minecraft-avatars.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-minecraft-avatars) or the [upstream repository](https://github.com/Nearata/flarum-ext-minecraft-avatars).
 
-**0** versions archived · Latest: [`v2.1.1`](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v2.1.1) · License: `Unlicense` · Flarum: `^1.7`
+**10** versions archived · Latest: [`v2.1.1`](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v2.1.1) · License: `Unlicense` · Flarum: `^1.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2020-07-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-07-14 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.1.0) |
+| `v1.1.1` | 2020-07-24 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.1.1) |
+| `v1.2.0` | 2020-11-15 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.2.0) |
+| `v1.3.0` | 2021-02-13 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.3.0) |
+| `v1.4.0` | 2021-03-19 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.4.0) |
+| `v1.5.0` | 2021-04-03 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v1.5.0) |
+| `v2.0.0` | 2021-06-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v2.0.0) |
+| `v2.1.0` | 2022-08-15 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v2.1.0) |
+| `v2.1.1` | 2023-05-24 | `^1.7` | [Browse](https://github.com/flarchive/nearata-flarum-ext-minecraft-avatars/tree/archive/v2.1.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-minecraft-avatars.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-minecraft-avatars.json)
 
